@@ -1,0 +1,28 @@
+# Ignore files with a .log extension
+*.log
+
+# Ignore the "node_modules" directory
+node_modules/
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore a specific file
+config.ini
+
+# Ignore all files in the "build" directory and its subdirectories
+build/
+
+# Игнорировать временные файлы
+*.swp
+*.swo
+*.swn
+*.swm
+*~
+
+
+
+
+# Игнорировать директории, созданные IDE
+.idea/
+.vscode/
